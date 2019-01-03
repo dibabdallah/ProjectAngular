@@ -1,4 +1,9 @@
 /* HeroesComponent's private CSS styles */
+h2 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
 .selected {
     background-color: #CFD8DC !important;
     color: white;
