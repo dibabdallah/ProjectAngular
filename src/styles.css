@@ -11,7 +11,7 @@ h1 {
     font-weight: lighter;
   }
   body {
-    background-image:url(../Images/Container.jpg);
+   /* background-image:url(../Images/Container.jpg);*/
     margin: 2em;
   }
   body, input[type="text"], button {
