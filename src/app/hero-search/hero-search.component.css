@@ -1,4 +1,8 @@
 /* HeroSearch private styles */
+h4 {
+  color: rgb(187, 68, 177);
+  position: relative;
+}
 .search-result li {
     border-bottom: 1px solid gray;
     border-left: 1px solid gray;
@@ -12,11 +16,11 @@
   }
    
   .search-result li:hover {
-    background-color: #607D8B;
+    background-color: rgb(187, 68, 177);
   }
    
   .search-result li a {
-    color: #888;
+    color: rgb(187, 68, 177);
     display: block;
     text-decoration: none;
   }

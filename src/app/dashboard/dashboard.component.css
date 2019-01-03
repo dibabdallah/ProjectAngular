@@ -1,4 +1,9 @@
 /* DashboardComponent's private CSS styles */
+h2 {
+  text-align: center;
+  color: rgb(187, 68, 177);
+ 
+}
 [class*='col-'] {
     float: left;
     padding-right: 20px;
@@ -15,10 +20,7 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
   }
-  h3 {
-    text-align: center;
-    margin-bottom: 0;
-  }
+ 
   h4 {
     position: relative;
   }
@@ -31,16 +33,16 @@
   .module {
     padding: 20px;
     text-align: center;
-    color: #eee;
-    max-height: 120px;
-    min-width: 120px;
-    background-color: #607d8b;
+    color:  #eee;
+    max-height: 100px;
+    min-width: 100px;
+    background-color: #2c0c308a;
     border-radius: 2px;
   }
   .module:hover {
     background-color: #eee;
     cursor: pointer;
-    color: #607d8b;
+    color: rgb(187, 68, 177);
   }
   .grid-pad {
     padding: 10px 0;
@@ -50,7 +52,7 @@
   }
   @media (max-width: 600px) {
     .module {
-      font-size: 10px;
+      font-size: 20px;
       max-height: 75px; }
   }
   @media (max-width: 1024px) {

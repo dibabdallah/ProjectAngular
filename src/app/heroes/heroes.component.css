@@ -1,4 +1,10 @@
 /* HeroesComponent's private CSS styles */
+h2{
+ color:  rgb(187, 68, 177);
+}
+#demo{
+  color:  rgb(187, 68, 177);
+}
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;
